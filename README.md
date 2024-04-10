@@ -71,7 +71,7 @@ Por exemplo, suponha que você queira encontrar o CPF do presidente do Brasil, S
 Luiz Inácio Lula da Silva:
 
 ```bash
-python script.py --name "LUIZ INACIO LULA DA SILVA"
+python main.py --name "LUIZ INACIO LULA DA SILVA"
 ```
 
 Após realizar diversas tentativas, o script reportará todos os CPFs encontrados no Portal
@@ -93,7 +93,7 @@ presidente do Brasil, Sra. Dilma Vana Rousseff, sabendo que parte de seu CPF est
 [Portal da Transparência](https://portaldatransparencia.gov.br/pessoa-fisica/busca/lista?):
 
 ```bash
-python script.py --name "DILMA VANA ROUSSEFF" --keyword "***.267.246-**"
+python main.py --name "DILMA VANA ROUSSEFF" --keyword "***.267.246-**"
 ```
 
 Exemplo de execução deste script disponível no vídeo: [https://youtu.be/c13g8o0wMJs](https://youtu.be/c13g8o0wMJs).
