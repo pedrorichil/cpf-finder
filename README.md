@@ -96,4 +96,3 @@ presidente do Brasil, Sra. Dilma Vana Rousseff, sabendo que parte de seu CPF est
 python main.py --name "DILMA VANA ROUSSEFF" --keyword "***.267.246-**"
 ```
 
-Exemplo de execução deste script disponível no vídeo: [https://youtu.be/c13g8o0wMJs](https://youtu.be/c13g8o0wMJs).
